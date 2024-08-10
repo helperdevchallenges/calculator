@@ -2,7 +2,7 @@
 
 In this challenge, your goal is to build a functional calculator based on a predefined design. The project aims to test your skills in implementing interfaces and basic programming logic, such as simple mathematical operations. The calculator should be able to perform addition, subtraction, multiplication, and division operations.
 
-<img src="cover.png" alt="Cover" />
+![Capa](./images/cover.png)
 
 ## Main Features:
 - Perform basic addition operations.
