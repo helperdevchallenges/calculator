@@ -1,10 +1,10 @@
 # Desafio 01 - Calculadora
 
-> **EN:** **[Click here to access English README version.](README.en.md)**
+> **EN:** **[Click here to access English README version.](./src/README.en.md)**
 
 Neste desafio, seu objetivo é construir uma calculadora funcional a partir de um design pré-definido. O projeto busca testar suas habilidades em implementar interfaces e lógica de programação básica, como operações matemáticas simples. A calculadora deve ser capaz de realizar as operações de adição, subtração, multiplicação e divisão.
 
-<img src="cover.png" alt="Cover" />
+![Capa](./src/images/cover.png)
 
 ## Funcionalidades Principais:
 - Realizar operações básicas de adição.
